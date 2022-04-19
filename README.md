@@ -1,18 +1,46 @@
-# <p align="center">| BACK END DEVELOPER |  👋</p>
-<p align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32px" alt="php">    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32px" alt="javascript">  </p>
-# Hi, I'm Syahrizal Ali Sadikin. I live in Bekasi, Jawa Barat, Indonesia. I'm Web Developer or back end developer with PHP (Laravel). You can see my portfolio in this site
+# Laravel Marketplace
+
+Simple overview of use/purpose.
+
+## Description
+
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started
+
+### Dependencies
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
+
+### Installing
+
+```
+git clone https://github.com/syahrizal-alisadikin/Marketplace-skripsi.git
+cd Marketplace-skripsi
+composer install
+edit .env file
+php artisan migrate
+php artisan serve
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+[Syahrizal Alisadikin](https://www.facebook.com/uninstaller.user/)
 
 
-# Github Performance Overall
-<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)      
-     
-- 📫 Please email alisadikinsyahrizal@gmail.com to Hire me.
+## Version History
 
+* 0.1
+    * Initial Release
 
+## License
 
-
-<p align="center"> ## Connect With Me</p>
-<p align="center"><a href="https://www.instagram.com/syahrizal-alisadikin" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
-<a href="https://web.facebook.com/uninstaller.user/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="32px" alt="Facebook"></a>
-<a href="https://github.com/syahrizal-alisadikin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32px" alt="Facebook"></a></p>
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
